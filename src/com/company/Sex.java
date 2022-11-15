@@ -1,6 +1,6 @@
 package com.company;
 
-public enum Sex {  // Класс Sex
+public enum Sex {
     MAN,
     WOMAN
 }

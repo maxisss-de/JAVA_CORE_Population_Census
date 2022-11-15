@@ -1,6 +1,6 @@
 package com.company;
 
-public enum Education { // Класс Education
+public enum Education {
     ELEMENTARY,
     SECONDARY,
     FURTHER,

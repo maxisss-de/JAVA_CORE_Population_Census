@@ -1,6 +1,6 @@
 package com.company;
 
-class Person {              // Класс Person
+class Person {              
     private String name;
     private String family;
     private Integer age;
